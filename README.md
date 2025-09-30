@@ -1,6 +1,6 @@
 # ClimateWins_Machine_Learning_Exploration
 For this project I took the role of a junior data analyst for the fictional company ClimateWins.  It’s concerned with the increase in extreme weather events, especially in the
-past 10 to 20 years. However, it thinks that even weather extremes could be predicted and planned for using advanced tools such as machine learning. With data from the past century, it hopes to create a model for what the future will hold.
+past 10 to 20 years. However, it thinks that even weather extremes could be predicted and planned for using advanced tools such as machine learning. With data from the past century, it hopes to create a model for what the future will hold. \
 ##Data
 Historic Weather Data collected by the European Climate Assessment & Dataset project - Source: https://www.ecad.eu/ 
 ## Coding Tools
