@@ -14,7 +14,7 @@ This analysis was executed using Python in Jupyter Notebook utilizing the follow
 ● Scipy: Executing advanced mathematical operations\
 ● Scikit-learn: Machine Learning, linear regression, and statistical modeling\
 ● Tensorflow: Machine Learning and Deep Learning framework\
-● Keras: Interface for building and training neural networks\
+● Keras: Interface for building and training neural networks
 ## Folders
 
 ● Project Management: Project Brief and Project Overview
