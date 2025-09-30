@@ -15,3 +15,10 @@ This analysis was executed using Python in Jupyter Notebook utilizing the follow
 ● Scikit-learn: Machine Learning, linear regression, and statistical modeling\
 ● Tensorflow: Machine Learning and Deep Learning framework\
 ● Keras: Interface for building and training neural networks\
+## Folders
+
+● Project Management: Project Brief and Project Overview
+
+● Data: Contains two subfolders, Original Data and Prepared Data. Original Data contains original data as provided by the sources and Prepared Data contains the wrangled data after it was prepared for analysis. The actual data files not uploaded to GitHub due to file size constraints.
+
+● Scripts: The Jupyter notebooks containing the code executed for analysis.
